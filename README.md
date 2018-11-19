@@ -6,10 +6,11 @@ Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) f
 
 ### Change Log 
 * Relit the main theater to be darker when nothing is playing
+* Added a new FIVE SIX poster
 * Added a toggle for the theater seats for Full Body Tracking users
 * Fixed the screen glow so it can fade down with the screen (Thanks for the tip Printer!)
 * Fixed the flickering theater light
-* Added a new FIVE SIX poster
+* Fixed missing objects when you respawn out of the theater
 * Improved the screen glow to hopefully reduce flickering
 * Updated the ball
 * Fixed object sync on the drawers
