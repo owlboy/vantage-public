@@ -5,6 +5,14 @@ This repository is the public sister repository to the private repository for Th
 Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) feature of this repository to report bugs or make feature requests relating to The Vantage.
 
 ### Change Log 
+## 11/19/18
+* Fixed weird reflection probes
+* Simplifies light probes
+* Updated FIVE SIX poster
+* Fixed overly red bounce lighting on chairs
+* Tweaked lights in theater
+
+## 11/18/18
 * Relit the main theater to be darker when nothing is playing
 * Added a new FIVE SIX poster
 * Added a toggle for the theater seats for Full Body Tracking users
