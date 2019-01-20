@@ -5,6 +5,20 @@ This repository is the public sister repository to the private repository for Th
 Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) feature of this repository to report bugs or make feature requests relating to The Vantage.
 
 ### Change Log 
+## 01/19/18
+* Added the door back in, this time it uses a toggle
+* Door now occludes the other room properly when closed
+* Reduced overdraw from the floor
+* Updated lightmap UVs on the chairs in the theater
+* Added a picture from Ledgend of the Guardians
+* Added a proper Mirror frame
+* Updated carpet boarder in Mirror Room
+* Aligned the carpet in the lounge area/mirror room
+* Took down banner for Pub Crawl
+
+## 01/18/18
+* Added banner for Pub Crawl
+
 ## 11/19/18
 * Fixed weird reflection probes
 * Simplifies light probes
