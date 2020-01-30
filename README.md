@@ -4,8 +4,19 @@ This repository is the public sister repository to the private repository for Th
 #### Bug Reports and Feature Requests
 Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) feature of this repository to report bugs or make feature requests relating to The Vantage.
 
-### Change Log 
-## 01/19/18
+### Change Log
+## 01/20/19 - 1/30/20 - The Vantage
+* Many optimization fixes
+* Wood paneling
+* Many performance fixes
+* New posters
+* New VHS tapes
+* Christmas Decor during Christmas
+* Timecode display
+* Custom displays for events
+* Many other misc changes
+
+## 01/19/19
 * Added the door back in, this time it uses a toggle
 * Door now occludes the other room properly when closed
 * Reduced overdraw from the floor
@@ -16,7 +27,7 @@ Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) f
 * Aligned the carpet in the lounge area/mirror room
 * Took down banner for Pub Crawl
 
-## 01/18/18
+## 01/18/19
 * Added banner for Pub Crawl
 
 ## 11/19/18
