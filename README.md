@@ -5,6 +5,11 @@ This repository is the public sister repository to the private repository for Th
 Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) feature of this repository to report bugs or make feature requests relating to The Vantage.
 
 ### Change Log
+## 01/30/19 - 2/15/20 - The Vantage
+* New room behind the theater in progress
+* Fixed Udon boxes being disapearing in new room
+*
+
 ## 01/20/19 - 1/30/20 - The Vantage
 * Many optimization fixes
 * Wood paneling
