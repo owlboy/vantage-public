@@ -6,9 +6,8 @@ Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) f
 
 ### Change Log
 ## 01/30/19 - 2/15/20 - The Vantage
-* New room behind the theater in progress
-* Fixed Udon boxes being disapearing in new room
-*
+* A new room behind the theater is in progress
+* Fixed Udon boxes disapearing in the new room
 
 ## 01/20/19 - 1/30/20 - The Vantage
 * Many optimization fixes
