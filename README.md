@@ -7,7 +7,7 @@ This repository is the public sister repository to the private repository for Th
 Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) feature of this repository to report bugs or make feature requests relating to The Vantage.
 
 ### Change Log
-## 05/13/23 - The Vantage
+#### 05/13/23 - The Vantage
 * Fixed collision near the playback controls.
 * Fixed missing lightprobes in the Theater room - Thanks Mimi!
 * Adjusted occlusion settings so edge case situations can't occlude the screen. – Thanks Not Rishi!
@@ -18,11 +18,11 @@ Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) f
 * Upgraded to com.vrchat.core.vpm-resolver 0.1.19.
 * Upgraded to the latest version of Filamented.
 
-## 05/11/23 - The Vantage
+#### 05/11/23 - The Vantage
 * Expanded the theater room by one chair width.
 * Made miscellaneous minor changes.
 
-## 02/15/20 - 05/01/23 - The Vantage
+#### 02/15/20 - 05/01/23 - The Vantage
 * Upgraded to Unity 2019.
 * Updated to latest SDKs as they became available.
 * Recreated most previous world functionality with Udon.
@@ -47,12 +47,12 @@ Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) f
 * Fractured my arm.
 * Made many miscellaneous changes and updates.
 
-## 01/30/19 - 02/15/20 - The Vantage
+#### 01/30/19 - 02/15/20 - The Vantage
 * Initiated the creation of a new room behind the theater.
 * Fixed disappearing Udon boxes in the new room.
 * Implemented many miscellaneous changes and updates.
 
-## 01/20/19 - 01/30/20 - The Vantage
+#### 01/20/19 - 01/30/20 - The Vantage
 * Executed many optimization fixes.
 * Installed wood paneling.
 * Applied many performance fixes.
@@ -63,7 +63,7 @@ Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) f
 * Designed custom displays for events.
 * Made many other miscellaneous changes.
 
-## 01/19/19
+#### 01/19/19
 * Reintroduced the door with a toggle feature.
 * Ensured the door occludes the other room properly when closed.
 * Reduced overdraw from the floor.
@@ -74,17 +74,17 @@ Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) f
 * Aligned the carpet in the lounge area/mirror room.
 * Removed banner for Pub Crawl.
 
-## 01/18/19
+#### 01/18/19
 * Installed banner for Pub Crawl.
 
-## 11/19/18
+#### 11/19/18
 * Fixed strange reflection probes.
 * Simplified light probes.
 * Updated FIVE SIX poster.
 * Fixed overly red bounce lighting on chairs.
 * Tweaked lights in the theater.
 
-## 11/18/18
+#### 11/18/18
 * Relit the main theater to be darker when nothing is playing.
 * Added a new FIVE SIX poster.
 * Introduced a toggle for the theater seats for Full Body Tracking users.
