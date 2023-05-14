@@ -41,7 +41,7 @@ Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) f
 * Improved light probes.
 * Optimized reflection probe update rate.
 * Held Madman Movie Night every week.
-* Screened various VJ mixes that I have produced over the last few years - Vantage Mix - Alpha, Vantage Mix - Beta, Vantage Mix - If Ever… Now, Vantage Mix - Fracture Free Edition, Vantage Mix - Feb 2023.
+* Screened various VJ mixes that I have produced over the last few years - `Vantage Mix - Alpha`, `Vantage Mix - Beta`, `Vantage Mix - If Ever… Now`, `Vantage Mix - Fracture Free Edition`, `Vantage Mix - Feb 2023`.
 * Hosted many live VJ events utilizing my backend video library of over 666 videos.
 * Fractured my arm.
 * Made many miscellaneous changes and updates.
