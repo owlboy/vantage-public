@@ -10,6 +10,7 @@ Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) f
 ## 05/13/23 - The Vantage
 * Fixed collision near the playback controls.
 * Fixed missing lightprobes in the Theater room - Thanks Mimi!
+* Adjusted occlusion settings so edge case situations can't occlude the screen. – Thanks Not Rishi!
 * Upgraded to com.vrchat.worlds 3.2.0.
 * Upgraded to com.vrchat.base 3.2.0.
 * Upgraded to com.vrchat.udonsharp 1.1.8.
