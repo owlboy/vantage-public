@@ -1,3 +1,5 @@
+![5-13-2023 6_00_46 PM-github](https://github.com/owlboy/vantage-public/assets/237349/12a0f1c6-afc9-44c5-a435-665a910713b7)
+
 ### This Repository
 This repository is the public sister repository to the private repository for The Vantage.
 
@@ -35,7 +37,6 @@ Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) f
 * Added new posters.
 * Added/rearranged shaders.
 * Reimplemented Station functionality for the tiny chairs in the theater.
-* Added/rearranged shaders.
 * Improved and fixed many lightmap UVs.
 * Improved light probes.
 * Optimized reflection probe update rate.
