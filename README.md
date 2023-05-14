@@ -5,7 +5,7 @@ This repository is the public sister repository to the private repository for Th
 Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) feature of this repository to report bugs or make feature requests relating to The Vantage.
 
 ### Change Log
-## 05/13/20 - The Vantage
+## 05/13/23 - The Vantage
 * Fixed collision near the playback controls.
 * Fixed missing lightprobes in the Theater room - Thanks Mimi!
 * Upgraded to com.vrchat.worlds 3.2.0.
@@ -15,7 +15,7 @@ Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) f
 * Upgraded to com.vrchat.core.vpm-resolver 0.1.19.
 * Upgraded to the latest version of Filamented.
 
-## 05/11/20 - The Vantage
+## 05/11/23 - The Vantage
 * Expanded the theater room by one chair width.
 * Made miscellaneous minor changes.
 
