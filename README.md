@@ -9,7 +9,7 @@ Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) f
 ### Change Log
 ## 2023.05.16 - The Vantage
 * Verified that all Metallic texture files are using the proper import settings. – [thegreatpug.com/help/srgb/](https://thegreatpug.com/help/srgb/)
-* Verified that all textures are using steaming mipmaps. – [thegreatpug.com/help/streaming-mipmaps/](https://thegreatpug.com/help/streaming-mipmaps/)
+* Verified that all textures are using streaming mipmaps. – [thegreatpug.com/help/streaming-mipmaps/](https://thegreatpug.com/help/streaming-mipmaps/)
 * Recompiled my custom shaders with the latest version of Amplify Shader Editor.
 * Miscellaneous minor changes and fixes.
 
