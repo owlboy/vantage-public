@@ -7,6 +7,9 @@ This repository is the public sister repository to the private repository for Th
 Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) feature of this repository to report bugs or make feature requests relating to The Vantage.
 
 ### Change Log
+## 2023.05.22 - The Vantage
+* Fixed an issue that prevented the main theater door from automatically closing during screenings.
+
 ## 2023.05.16 - The Vantage
 * Verified that all Metallic texture files are using the proper import settings. – [thegreatpug.com/help/srgb/](https://thegreatpug.com/help/srgb/)
 * Verified that all textures are using streaming mipmaps. – [thegreatpug.com/help/streaming-mipmaps/](https://thegreatpug.com/help/streaming-mipmaps/)
