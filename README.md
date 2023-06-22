@@ -7,6 +7,20 @@ This repository is the public sister repository to the private repository for Th
 Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) feature of this repository to report bugs or make feature requests relating to The Vantage.
 
 ### Change Log
+#### 2023.06.19 - The Vantage
+* Addressed issues with my production scripts that lead to playback errors 🫠
+* Overhauled the speaker system! - Thanks for the guidance and input [Hackspanner](https://github.com/hackspanner) !
+* Updated the screen to support aspect ratios wider than 16x9
+* Added subtitle functionality via [USharpVideo-Subtitles](https://github.com/jacklul/USharpVideo-Subtitles) - Thanks [_Haï~](https://twitter.com/vr_hai) & [jacklul](https://github.com/jacklul) !
+* Reimplemented the screen glow toggle
+* Improved the reload button to provide visual feedback and prevent reload spamming
+* Overhauled the chairs in the theater with a rebuilt and improved model
+* Addressed an issue where light maps on light bulbs using Silent's Fake Glass shader would have a disproportionate performance impact on users that were supersampling. (They didn't need to be light mapped)
+* Spider-plant! Spider-plant!
+* Tweaked various materials
+* Performed performance comparisons between Unity 2019 and Unity 2021
+* Misc minor changes and fixes
+
 #### 2023.05.22 - The Vantage
 * Fixed an issue that prevented the main theater door from automatically closing during screenings.
 
