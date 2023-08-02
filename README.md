@@ -7,6 +7,20 @@ This repository is the public sister repository to the private repository for Th
 Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) feature of this repository to report bugs or make feature requests relating to The Vantage.
 
 ### Change Log
+#### 2023.07.22 - 2023.07.31 - The Vantage
+* Implemented an Avatar Scaling configuration
+* Updated the scripts controlling audio falloff and frequency cutoffs for the theater speakers
+* Updated to com.vrchat.worlds 3.2.2
+* Updated to com.vrchat.base 3.2.2
+* Updated to com.vrchat.core.vpm-resolver 0.1.21
+
+#### 2023.06.30 - The Vantage
+* Refactored how the houselights are controlled
+* Restored On and Off buttons for the houselights
+* Fixed the global reflection probe
+* Tweaked some materials
+* Misc minor changes and fixes
+  
 #### 2023.06.19 - The Vantage
 * Addressed issues with my production scripts that lead to playback errors 🫠
 * Overhauled the speaker system! - Thanks for the guidance and input [Hackspanner](https://github.com/hackspanner) !
