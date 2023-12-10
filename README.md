@@ -32,7 +32,10 @@ Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) f
 #### 2023.09.24 - The Vantage
 * Overhauled lighting profile
 * Misc minor changes and adjustments
-  
+
+#### 2023.09.09 - The Vantage
+* Added audio occlusion for voices via [UdonVoiceUtils](https://github.com/Guribo/UdonVoiceUtils)
+
 #### 2023.07.22 - 2023.07.31 - The Vantage
 * Implemented an Avatar Scaling configuration
 * Updated the scripts controlling audio falloff and frequency cutoffs for the theater speakers
