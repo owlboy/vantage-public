@@ -1,4 +1,4 @@
-![5-13-2023 6_00_46 PM-github](https://github.com/owlboy/vantage-public/assets/237349/12a0f1c6-afc9-44c5-a435-665a910713b7)
+![2023-12-09-the-vantage-READMEMD](https://github.com/owlboy/vantage-public/assets/237349/d3d11e58-4287-409d-b857-3261ec864879)
 
 ### This Repository
 This repository is the public sister repository to the private repository for The Vantage.
