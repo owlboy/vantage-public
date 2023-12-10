@@ -7,6 +7,32 @@ This repository is the public sister repository to the private repository for Th
 Feel free to use the [issues](https://github.com/owlboy/vantage-public/issues) feature of this repository to report bugs or make feature requests relating to The Vantage.
 
 ### Change Log
+#### 2023.12.09 - The Vantage
+* Added a video screen Render Texture resolution toggle for lowering the default resolution - 4k/2k
+
+#### 2023.12.01 - The Vantage
+* Added holiday decorations
+* Adjusted lighting
+* Adjusted reflection probe intensity
+* Updated AudioLink to v1.2
+* Updated com.vrchat.worlds to v3.4.1
+* Updated com.vrchat.base to v3.4.1
+* Misc minor changes and adjustments
+
+#### 2023.11.05
+* Removed halloween decorations
+* Misc minor changes and adjustments
+
+#### 2023.10.22 - The Vantage
+* Added custom gimmicks for a showing of The Tingler (1959)
+
+#### 2023.10.01 - The Vantage
+* Decorated for Halloween 2023!
+
+#### 2023.09.24 - The Vantage
+* Overhauled lighting profile
+* Misc minor changes and adjustments
+  
 #### 2023.07.22 - 2023.07.31 - The Vantage
 * Implemented an Avatar Scaling configuration
 * Updated the scripts controlling audio falloff and frequency cutoffs for the theater speakers
